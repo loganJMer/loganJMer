@@ -27,5 +27,4 @@ Hey there! I'm a passionate Computer Science student at Carleton University, wit
 
 ## 📫 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-loganJMer-181717?logo=github)](https://github.com/loganJMer)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Logan%20Merriam-0A66C2?logo=linkedin)](https://www.linkedin.com/in/logan-merriam-a27883365/)
